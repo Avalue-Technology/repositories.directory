@@ -9,7 +9,6 @@ This is a categorized overview of Avalue Technology Inc.'s public GitHub Reposit
 Projects developed for NVIDIA Jetson AGX Orin platform with custom SDK integration, focusing on AI tasks like face, human, vehicle detection:
 
 - [edge.ai.jetson.agx.orin.face.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.face.detection)  
-- [edge.ai.jetson.agx.orin.vehicle.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.vehicle.detection)  
 - [edge.ai.jetson.agx.orin.human.vehicle.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.human.vehicle.detection)  
 
 ---
