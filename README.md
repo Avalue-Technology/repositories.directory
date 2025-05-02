@@ -1,6 +1,6 @@
 # Avalue Technology Inc. - Repository Directory
 
-This is a categorized overview of Avalue Technology Inc.'s public GitHub Repositories.
+This is a categorized overview of Avalue Technology Inc. - GitHub Repositories.
 
 ---
 
@@ -30,7 +30,8 @@ Projects developed for NVIDIA Jetson Orin platform with custom SDK integration, 
 
 Repository for AI Model [RKNN Model Zoo](https://github.com/airockchip/rknn_model_zoo) validation on Rockchip platforms.
 
-- [edge.ai.rknn.model.zoo.testing.ACP-3588](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588)  
+- [edge.ai.rknn.model.zoo.testing.ACP-3566-PI](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3566-PI)
+- [edge.ai.rknn.model.zoo.testing.ACP-3588](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588)
 
 ---
 
