@@ -28,7 +28,7 @@ Repository for AI Model [RKNN Model Zoo](https://github.com/airockchip/rknn_mode
 
 ---
 
-## NVIDIA Edge AI
+## Avalue Edge AI Examples
 
 Af follows repositorise are applicable to the NVIDIA Jetson AGX Orin platform, focusing on AI tasks like face, human, vehicle detection:
 
