@@ -4,18 +4,9 @@ This is a categorized overview of Avalue Technology Inc. - GitHub Repositories.
 
 ---
 
-## NVIDIA Edge AI
+## NVIDIA Edge AI with Avalue SDK
 
-Projects developed for NVIDIA Jetson AGX Orin platform, focusing on AI tasks like face, human, vehicle detection:
-
-- [edge.ai.jetson.agx.orin.face.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.face.detection)  
-- [edge.ai.jetson.agx.orin.human.vehicle.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.human.vehicle.detection)  
-
----
-
-## NVIDIA Edge AI with Custom SDK
-
-Projects developed for NVIDIA Jetson Orin platform with custom SDK integration, focusing on AI tasks like face, human, vehicle detection, and keypoint estimation:
+Projects developed for NVIDIA Jetson Orin platform with Avalue SDK integration, focusing on AI tasks like face, human, vehicle detection, and keypoint estimation:
 
 - [edge.ai.jetson.orin.sdk](https://github.com/Avalue-Technology/edge.ai.jetson.orin.sdk)  
 - [edge.ai.jetson.orin.face.detection](https://github.com/Avalue-Technology/edge.ai.jetson.orin.face.detection)  
@@ -23,6 +14,8 @@ Projects developed for NVIDIA Jetson Orin platform with custom SDK integration, 
 - [edge.ai.jetson.orin.human.keypoint.detection](https://github.com/Avalue-Technology/edge.ai.jetson.orin.human.keypoint.detection)  
 - [edge.ai.jetson.orin.vehicle.detection](https://github.com/Avalue-Technology/edge.ai.jetson.orin.vehicle.detection)  
 - [edge.ai.jetson.orin.anpr](https://github.com/Avalue-Technology/edge.ai.jetson.orin.anpr)  
+
+The above repositories are applicable to the following machine models: AIB-NIAO, AIB-NINX-S, AIB-NINX-SC...etc.
 
 ---
 
@@ -32,6 +25,15 @@ Repository for AI Model [RKNN Model Zoo](https://github.com/airockchip/rknn_mode
 
 - [edge.ai.rknn.model.zoo.testing.ACP-3566-PI](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3566-PI)
 - [edge.ai.rknn.model.zoo.testing.ACP-3588](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588)
+
+---
+
+## NVIDIA Edge AI
+
+Af follows repositorise are applicable to the NVIDIA Jetson AGX Orin platform, focusing on AI tasks like face, human, vehicle detection:
+
+- [edge.ai.jetson.agx.orin.face.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.face.detection)  
+- [edge.ai.jetson.agx.orin.human.vehicle.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.human.vehicle.detection)  
 
 ---
 
