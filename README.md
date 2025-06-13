@@ -28,6 +28,15 @@ Repository for AI Model [RKNN Model Zoo](https://github.com/airockchip/rknn_mode
 
 ---
 
+## Hailo Edge AI
+
+Projects developed for Hailo-8 M.2 Module with Hailo SDK integration, focusing on AI tasks like human detection:
+
+- [edge.ai.x86.hailo.sdk](https://github.com/Avalue-Technology/edge.ai.x86.hailo.sdk)
+- [edge.ai.x86.hailo.demo](https://github.com/Avalue-Technology/edge.ai.x86.hailo.demo?tab=readme-ov-file)
+
+---
+
 ## Avalue Edge AI Tutorials for NVIDIA
 
 Af follows repositorise are applicable to the NVIDIA Jetson AGX Orin platform, focusing on AI tasks like face, human, vehicle detection:
