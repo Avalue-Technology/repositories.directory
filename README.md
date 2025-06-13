@@ -39,10 +39,19 @@ Projects developed for Hailo-8 M.2 Module with Hailo SDK integration, focusing o
 
 ## Avalue Edge AI Tutorials for NVIDIA
 
-Af follows repositorise are applicable to the NVIDIA Jetson AGX Orin platform, focusing on AI tasks like face, human, vehicle detection:
+As follows repositorise are applicable to the NVIDIA Jetson AGX Orin platform, focusing on AI tasks like face, human, vehicle detection:
 
 - [edge.ai.jetson.agx.orin.face.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.face.detection)  
 - [edge.ai.jetson.agx.orin.human.vehicle.detection](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.human.vehicle.detection)  
+
+---
+
+## Avalue Edge AI Tutorials for Rockchip
+
+As follows repositorise are applicable to the Rockchip platform (Specific Series), focusing on AI tasks like face keypoint:
+
+- [edge.ai.rknn.RetinaFace.tutorial.ACP-3568](https://github.com/Avalue-Technology/edge.ai.rknn.RetinaFace.tutorial.ACP-3568)
+- [edge.ai.rknn.RetinaFace.tutorial.ACP-3588](https://github.com/Avalue-Technology/edge.ai.rknn.RetinaFace.tutorial.ACP-3588)
 
 ---
 
