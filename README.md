@@ -55,6 +55,14 @@ As follows repositorise are applicable to the Rockchip platform (Specific Series
 
 ---
 
+## Avalue ROS2 Foxy for NVIDIA
+
+As follows repositorise are applicable to the NVIDIA Jetson Orin™ Nano 4GB/8GB；Orin™ NX 8GB/16GB platform (Ubuntu 20.04), focusing on Robot Operating System tasks like LiDAR, IMU, Camera, Autonomous Mobile Robot...etc.:
+
+- [ros2.foxy.camera.intelrealsense](https://github.com/Avalue-Technology/ros2.foxy.camera.intelrealsense)
+
+---
+
 ## Avalue Peripherals
 
 Peripheral device integration and control tutorials.
