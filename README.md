@@ -67,7 +67,7 @@ As follows repositorise are applicable to the Rockchip platform (Specific Series
 
 As follows repositorise are applicable to the NVIDIA Jetson Orin™ Nano 4GB/8GB；Orin™ NX 8GB/16GB platform (Ubuntu 20.04), focusing on Robot Operating System tasks like LiDAR, IMU, Camera, Autonomous Mobile Robot...etc.:
 
-- [ros2.foxy.aib-nw01](https://github.com/AlexChang633/ros2.foxy.aib-nw01)
+- [ros2.foxy.AIB-NW01](https://github.com/AlexChang633/ros2.foxy.AIB-NW01)
 - [ros2.foxy.camera.intelrealsense](https://github.com/Avalue-Technology/ros2.foxy.camera.intelrealsense)
 - [ros2.foxy.lidar.slamtec](https://github.com/Avalue-Technology/ros2.foxy.lidar.slamtec?tab=readme-ov-file)
 
