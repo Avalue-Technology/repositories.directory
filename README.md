@@ -19,6 +19,14 @@ The above repositories are applicable to the following machine models: AIB-NIAO,
 
 ---
 
+## NVIDIA Edge AI with Docker, Ollama
+
+Projects developed for NVIDIA Jetson Orin platform with Open-source AI models integration. The repository primarily explains how to install, configure, and facilitate the use of open-source AI models.
+
+- [edge.ai.jetson.agx.orin.AIB-NIAO-S](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.AIB-NIAO-S)  
+
+---
+
 ## Rockchip Edge AI
 
 Repository for AI Model [RKNN Model Zoo](https://github.com/airockchip/rknn_model_zoo) validation on Rockchip platforms.
