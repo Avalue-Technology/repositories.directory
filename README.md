@@ -70,6 +70,7 @@ As follows repositorise are applicable to the NVIDIA Jetson Orin™ Nano 4GB/8GB
 - [ros2.foxy.AIB-NW01](https://github.com/AlexChang633/ros2.foxy.AIB-NW01)
 - [ros2.foxy.camera.intelrealsense](https://github.com/Avalue-Technology/ros2.foxy.camera.intelrealsense)
 - [ros2.foxy.lidar.slamtec](https://github.com/Avalue-Technology/ros2.foxy.lidar.slamtec?tab=readme-ov-file)
+- [ros2.foxy.amr.avalue](https://github.com/Avalue-Technology/ros2.foxy.amr.avalue)
 
 ---
 
