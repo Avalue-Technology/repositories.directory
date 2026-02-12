@@ -101,6 +101,7 @@ As follows repositorise are applicable to the Intel platform (Ubuntu 22.04), foc
 As follows repositorise are applicable to the Rockchip, Intel platform (Ubuntu 22.04), focusing on Robot Operating System tasks like LiDAR, IMU, Camera, Autonomous Mobile Robot...etc.
 - [ros2.humble.camera.intelrealsense](https://github.com/Avalue-Technology/ros2.humble.camera.intelrealsense)
 - [ros2.humble.lidar.slamtec](https://github.com/Avalue-Technology/ros2.foxy.humble.slamtec)
+- [ros2.humble.amr.avalue](https://github.com/Avalue-Technology/ros2.humble.amr.avalue)
 
 ---
 
