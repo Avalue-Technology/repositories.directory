@@ -65,20 +65,42 @@ As follows repositorise are applicable to the Rockchip platform (Specific Series
 
 ## Avalue ROS2 Foxy for NVIDIA
 
-As follows repositorise are applicable to the NVIDIA Jetson Orin™ Nano 4GB/8GB；Orin™ NX 8GB/16GB platform (Ubuntu 20.04), focusing on Robot Operating System tasks like LiDAR, IMU, Camera, Autonomous Mobile Robot...etc.:
+As follows repositorise are applicable to the NVIDIA Jetson Orin™ Nano 4GB/8GB；Orin™ NX 8GB/16GB platform (Ubuntu 20.04), focusing on Robot Operating System.
 
 - [ros2.foxy.AIB-NW01](https://github.com/Avalue-Technology/ros2.foxy.AIB-NW01)
+
+---
+
+## Avalue ROS2 Foxy AMR, Peripheral Devices
+
+As follows repositorise are applicable to the NVIDIA Jetson Orin™ Nano 4GB/8GB；Orin™ NX 8GB/16GB platform (Ubuntu 20.04), focusing on Robot Operating System tasks like LiDAR, IMU, Camera, Autonomous Mobile Robot...etc.
+
 - [ros2.foxy.camera.intelrealsense](https://github.com/Avalue-Technology/ros2.foxy.camera.intelrealsense)
-- [ros2.foxy.lidar.slamtec](https://github.com/Avalue-Technology/ros2.foxy.lidar.slamtec?tab=readme-ov-file)
+- [ros2.foxy.lidar.slamtec](https://github.com/Avalue-Technology/ros2.foxy.lidar.slamtec)
 - [ros2.foxy.amr.avalue](https://github.com/Avalue-Technology/ros2.foxy.amr.avalue)
 
 ---
 
 ## Avalue ROS2 Humble for Rockchip
 
-As follows repositorise are applicable to the Rockchip platform (Ubuntu 22.04), focusing on Robot Operating System tasks like LiDAR, IMU, Camera, Autonomous Mobile Robot...etc.:
+As follows repositorise are applicable to the Rockchip platform (Ubuntu 22.04), focusing on Robot Operating System.
 
 - [ros2.humble.ACP-3588](https://github.com/Avalue-Technology/ros2.humble.ACP-3588)
+
+---
+
+## Avalue ROS2 Humble for Intel Platform
+
+As follows repositorise are applicable to the Intel platform (Ubuntu 22.04), focusing on Robot Operating System.
+- [ros2.humble.EMS-TGL](https://github.com/Avalue-Technology/ros2.humble.EMS-TGL)
+
+---
+
+## Avalue ROS2 Humble AMR, Peripheral Devices
+
+As follows repositorise are applicable to the Rockchip, Intel platform (Ubuntu 22.04), focusing on Robot Operating System tasks like LiDAR, IMU, Camera, Autonomous Mobile Robot...etc.
+- [ros2.humble.camera.intelrealsense](https://github.com/Avalue-Technology/ros2.humble.camera.intelrealsense)
+- [ros2.humble.lidar.slamtec](https://github.com/Avalue-Technology/ros2.foxy.humble.slamtec)
 
 ---
 
