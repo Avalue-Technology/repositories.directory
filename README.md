@@ -23,7 +23,15 @@ The above repositories are applicable to the following machine models: AIB-NIAO,
 
 Projects developed for NVIDIA Jetson Orin platform with Open-source AI models integration. The repository primarily explains how to install, configure, and facilitate the use of open-source AI models.
 
-- [edge.ai.jetson.agx.orin.AIB-NIAO-S](https://github.com/Avalue-Technology/edge.ai.jetson.agx.orin.AIB-NIAO-S)  
+- [edge.ai.jetson.orin.agx.ollama.AIB-NIAO-S](https://github.com/Avalue-Technology/edge.ai.jetson.orin.agx.ollama.AIB-NIAO-S)
+
+---
+
+## NVIDIA Edge AI with Docker, Holoscan
+
+Projects developed for NVIDIA Jetson Orin platform with NVIDIA Holoscan integration. The repository primarily explains how to install, configure, and facilitate the use of Holoscan.
+
+- [edge.ai.jetson.orin.nx.holoscan.AIB-NINX-S](https://github.com/Avalue-Technology/edge.ai.jetson.orin.nx.holoscan.AIB-NINX-S)
 
 ---
 
