@@ -35,6 +35,14 @@ Projects developed for NVIDIA Jetson Orin platform with NVIDIA Holoscan integrat
 
 ---
 
+## NVIDIA Edge AI with Docker, Holoscan
+
+Projects developed for NVIDIA Jetson Orin platform with NVIDIA Holohub integration. The repository primarily explains how to build, run, and facilitate the use of Holohub.
+
+- [edge.ai.jetson.orin.nx.holohub.AIB-NINX-S](https://github.com/Avalue-Technology/edge.ai.jetson.orin.nx.holohub.AIB-NINX-S)
+
+---
+
 ## Rockchip Edge AI
 
 Repository for AI Model [RKNN Model Zoo](https://github.com/airockchip/rknn_model_zoo) validation on Rockchip platforms.
