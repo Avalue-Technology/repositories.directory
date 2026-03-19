@@ -35,7 +35,7 @@ Projects developed for NVIDIA Jetson Orin platform with NVIDIA Holoscan integrat
 
 ---
 
-## NVIDIA Edge AI with Docker, Holoscan
+## NVIDIA Edge AI with Docker, Holohub
 
 Projects developed for NVIDIA Jetson Orin platform with NVIDIA Holohub integration. The repository primarily explains how to build, run, and facilitate the use of Holohub.
 
