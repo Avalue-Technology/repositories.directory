@@ -19,6 +19,14 @@ The above repositories are applicable to the following machine models: AIB-NIAO,
 
 ---
 
+## NVIDIA Edge AI with Whisper
+
+Projects developed for NVIDIA Jetson Orin platform with Whisper integration. The repository primarily explains how to install, configure, and facilitate the use of Whisper.
+
+- [edge.ai.jetson.orin.nx.faster_whisper.AIB-NINX-S](https://github.com/Avalue-Technology/edge.ai.jetson.orin.nx.faster_whisper.AIB-NINX-S)
+
+---
+
 ## NVIDIA Edge AI with Docker, Ollama
 
 Projects developed for NVIDIA Jetson Orin platform with Open-source AI models integration. The repository primarily explains how to install, configure, and facilitate the use of open-source AI models.
