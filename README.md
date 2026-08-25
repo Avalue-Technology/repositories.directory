@@ -57,7 +57,7 @@ Repository for AI Model [RKNN Model Zoo](https://github.com/airockchip/rknn_mode
 
 - [edge.ai.rknn.model.zoo.testing.ACP-3566-PI](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3566-PI)
 - [edge.ai.rknn.model.zoo.testing.ACP-3588](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588)
-- [edge.ai.rknn.model.zoo.yolov5.APC-32WR5](https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.yolov5.APC-32WR5)
+- [edge.ai.android.rknn.model.zoo.yolov5.APC-32WR5](https://github.com/Avalue-Technology/edge.ai.android.rknn.model.zoo.yolov5.APC-32WR5)
 
 ---
 
