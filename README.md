@@ -130,6 +130,13 @@ As follows repositorise are applicable to the Rockchip, Intel platform (Ubuntu 2
 
 ---
 
+## Avalue ROS2 Humble AMR Docker
+
+As follows repositorise are applicable to the ROS2 Humble AMR Docker, focusing on Robot Operating System.
+- [ros2.humble.docker](https://github.com/Avalue-Technology/ros2.humble.docker)
+
+---
+
 ## Avalue Peripherals
 
 Peripheral device integration and control tutorials.
