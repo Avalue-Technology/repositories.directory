@@ -116,8 +116,9 @@ As follows repositorise are applicable to the Rockchip platform (Ubuntu 22.04), 
 
 ## Avalue ROS2 Humble for Intel Platform
 
-As follows repositorise are applicable to the Intel platform (Ubuntu 22.04), focusing on Robot Operating System.
+As follows repositorise are applicable to the Intel platform (Ubuntu 22.04, Ubuntu 26.04), focusing on Robot Operating System.
 - [ros2.humble.EMS-TGL](https://github.com/Avalue-Technology/ros2.humble.EMS-TGL)
+- [ros2.humble.EPC-WCL](https://github.com/Avalue-Technology/ros2.humble.EPC-WCL)
 
 ---
 
@@ -127,13 +128,6 @@ As follows repositorise are applicable to the Rockchip, Intel platform (Ubuntu 2
 - [ros2.humble.camera.intelrealsense](https://github.com/Avalue-Technology/ros2.humble.camera.intelrealsense)
 - [ros2.humble.lidar.slamtec](https://github.com/Avalue-Technology/ros2.foxy.humble.slamtec)
 - [ros2.humble.amr.avalue](https://github.com/Avalue-Technology/ros2.humble.amr.avalue)
-
----
-
-## Avalue ROS2 Humble AMR Docker
-
-As follows repositorise are applicable to the ROS2 Humble AMR Docker, focusing on Robot Operating System.
-- [ros2.humble.docker](https://github.com/Avalue-Technology/ros2.humble.docker)
 
 ---
 
