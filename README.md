@@ -4,7 +4,7 @@ This is a categorized overview of Avalue Technology Inc. - GitHub Repositories.
 
 ---
 
-## Use Cases
+## Avalue Use Cases
 
 Repositories in this category primarily consist of application methods or use cases tailored to specific contexts.
 
