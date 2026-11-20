@@ -4,6 +4,14 @@ This is a categorized overview of Avalue Technology Inc. - GitHub Repositories.
 
 ---
 
+## Use Cases
+
+Repositories in this category primarily consist of application methods or use cases tailored to specific contexts.
+
+- [KAMonitor ELI5](https://github.com/Avalue-Technology/kamonitor)
+
+---
+
 ## NVIDIA Edge AI with Avalue SDK
 
 Projects developed for NVIDIA Jetson Orin platform with Avalue SDK integration, focusing on AI tasks like face, human, vehicle detection, and keypoint estimation:
